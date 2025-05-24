@@ -6,7 +6,7 @@
 
 ## About
 
-A simple wrapper for [jvectormap](http://jvectormap.com/)
+A simple wrapper for [jvectormap](http://jvm-docs.vercel.app/)
 
 ## Quick Start
 
